@@ -1,16 +1,28 @@
-### Hi there 👋
+### My projects, sorted by category :rainbow_flag:
 
-<!--
-**adri326/adri326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 5D Chess :chess_pawn:
 
-Here are some ideas to get you started:
+My projects around the game called [5D Chess with Multiverse Time Travel](https://5dchesswithmultiversetimetravel.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [5dchess-tools](https://github.com/adri325/5dchess-tools), a Rust library, engine and (actual) bot for 5D Chess. **⟨Rust⟩**
+- [5dchess-notation](https://github.com/adri325/5dchess-notation), a notation for 5D Chess and converter between notations. **⟨JS⟩**
+- [5d-chess-renderer](https://gitlab.com/alexbay218/5d-chess-renderer) and [5d-chess-js](https://gitlab.com/alexbay218/5d-chess-js), Alexbay's projects that I contributed to. **⟨JS⟩**
+
+#### Weekend projects :cloud:
+
+Small projects that I started over a weekend, as a mean for me to take my mind off.
+
+- [geometrical-visualizations](https://github.com/adri326/geometrical-visualizations), visualizing sequences with geometrical tools. **⟨JS⟩**
+- [galaxies.rs](https://github.com/adri326/galaxies.rs), simulating galaxies. **⟨Rust⟩**
+- [blips](https://github.com/adri326/blips), tiny projects. **⟨CSS, JS⟩**
+
+#### School :clock230:
+
+The projects that I had to do for school.
+
+- [ifd-project](https://github.com/adri326/ifd-project), person counter using two laser beams+sensor and an arduino. **⟨C++⟩**
+- [lo21-project](https://github.com/adri326/lo21-project), theorem prover using boolean logic as first-class citizen. **⟨C⟩**
+- [language-kb](https://github.com/adri326/language-kb), language support for `lo21-project`. **⟨TextMate⟩**
+- [lists.c](https://github.com/adri326/lists.c), generic list structures in pure C, using macros. **⟨C⟩**
+- [character-graph](https://github.com/adri326/character-graph), cleaned-up code to generate a character graph. **⟨R⟩**
+- [ife-project](https://github.com/adri326/ife-project), game of "Belotte Coinchée", using SDL2. **⟨C⟩**
