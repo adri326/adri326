@@ -4,8 +4,8 @@
 
 My projects around the game called [5D Chess with Multiverse Time Travel](https://5dchesswithmultiversetimetravel.com/)
 
-- [5dchess-tools](https://github.com/adri325/5dchess-tools), a Rust library, engine and (actual) bot for 5D Chess. **⟨Rust⟩**
-- [5dchess-notation](https://github.com/adri325/5dchess-notation), a notation for 5D Chess and converter between notations. **⟨JS⟩**
+- [5dchess-tools](https://github.com/adri326/5dchess-tools), a Rust library, engine and (actual) bot for 5D Chess. **⟨Rust⟩**
+- [5dchess-notation](https://github.com/adri326/5dchess-notation), a notation for 5D Chess and converter between notations. **⟨JS⟩**
 - [5d-chess-renderer](https://gitlab.com/alexbay218/5d-chess-renderer) and [5d-chess-js](https://gitlab.com/alexbay218/5d-chess-js), Alexbay's projects that I contributed to. **⟨JS⟩**
 
 #### Weekend projects :cloud:
