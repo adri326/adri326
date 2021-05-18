@@ -9,6 +9,7 @@ My projects around the game called [5D Chess with Multiverse Time Travel](https:
 - [5dchess-designer](https://github.com/adri326/5dchess-designer), a small browser app to design custom 5D Chess variants. **⟨JS⟩**
 - [5dchess-variants](https://github.com/adri326/5dchess-variants), a repository of 5D Chess variants. **⟨5DPGN⟩**
 - [5d-chess-renderer](https://gitlab.com/alexbay218/5d-chess-renderer) and [5d-chess-js](https://gitlab.com/alexbay218/5d-chess-js), Alexbay's projects that I contributed to. **⟨JS⟩**
+- [The 5DChess Wiki](https://5d-chess.fandom.com/) **⟨LUA, MediaWiki⟩**
 
 #### Weekend projects :cloud:
 
@@ -28,3 +29,5 @@ The projects that I had to do for school.
 - [lists.c](https://github.com/adri326/lists.c), generic list structures in pure C, using macros. **⟨C⟩**
 - [character-graph](https://github.com/adri326/character-graph), cleaned-up code to generate a character graph. **⟨R⟩**
 - [ife-project](https://github.com/adri326/ife-project), game of "Belotte Coinchée", using SDL2. **⟨C⟩**
+- [lp25-exs](https://github.com/adri326/lp25-exs), exercises in pure C and shellscript. **⟨C, ShellScript, Bash⟩**
+- [lp25-project](https://github.com/adri326/lp25-project), simple tree traversal program. **⟨C⟩**
