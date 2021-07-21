@@ -37,3 +37,4 @@ The projects that I had to do for school.
 My projects around the game [Dwarf Fortress](http://www.bay12games.com/dwarves/)
 
 - [rexpaintjs-fork](https://github.com/adri326/rexpaintjs-fork), a fork of [rexpaintjs](https://github.com/chiguireitor/rexpaintjs/), a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp files; the fork adds the ability to write .xp files and tools to manipulate them. **⟨JS⟩**
+- [warale-font](https://github.com/adri326/warale-font), a FOSS font supporting the entire CP437 charset. **⟨Pixel font⟩**
