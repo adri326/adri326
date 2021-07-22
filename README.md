@@ -19,6 +19,13 @@ Small projects that I started over a weekend, as a mean for me to take my mind o
 - [galaxies.rs](https://github.com/adri326/galaxies.rs), simulating galaxies. **⟨Rust⟩**
 - [blips](https://github.com/adri326/blips), tiny projects. **⟨CSS, JS⟩**
 
+#### Dwarf Fortress-related :pick:
+
+My projects around the game [Dwarf Fortress](http://www.bay12games.com/dwarves/)
+
+- [rexpaintjs-fork](https://github.com/adri326/rexpaintjs-fork), a fork of [rexpaintjs](https://github.com/chiguireitor/rexpaintjs/), a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp files; the fork adds the ability to write .xp files and tools to manipulate them. **⟨JS⟩**
+- [warale-font](https://github.com/adri326/warale-font), a FOSS font supporting the entire CP437 charset. **⟨Pixel font⟩**
+
 #### School :clock230:
 
 The projects that I had to do for school.
@@ -31,10 +38,3 @@ The projects that I had to do for school.
 - [ife-project](https://github.com/adri326/ife-project), game of "Belotte Coinchée", using SDL2. **⟨C⟩**
 - [lp25-exs](https://github.com/adri326/lp25-exs), exercises in pure C and shellscript. **⟨C, ShellScript, Bash⟩**
 - [lp25-project](https://github.com/adri326/lp25-project), simple tree traversal program. **⟨C⟩**
-
-#### Dwarf Fortress-related :pick:
-
-My projects around the game [Dwarf Fortress](http://www.bay12games.com/dwarves/)
-
-- [rexpaintjs-fork](https://github.com/adri326/rexpaintjs-fork), a fork of [rexpaintjs](https://github.com/chiguireitor/rexpaintjs/), a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp files; the fork adds the ability to write .xp files and tools to manipulate them. **⟨JS⟩**
-- [warale-font](https://github.com/adri326/warale-font), a FOSS font supporting the entire CP437 charset. **⟨Pixel font⟩**
