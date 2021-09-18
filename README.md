@@ -40,3 +40,4 @@ The projects that I had to do for school.
 - [lp25-project](https://github.com/adri326/lp25-project), simple tree traversal program. **⟨C⟩**
 - [ap4a-project](https://github.com/adri326/ap4a-project), a (virtual) sensor handler. **⟨C++⟩**
 - [ia41-exs](https://github.com/adri326/ia41-exs), set of exercises for the IA41 class. **⟨Prolog, Python⟩**
+- [Quick berkeley UPC build scripts](https://gist.github.com/adri326/471d02e55bc541f8eb158e004cd1582d), scripts to build and install the berkeley UPC suite. **⟨ShellScript⟩**
