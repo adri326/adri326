@@ -24,6 +24,7 @@ Small projects that I started over a weekend, as a mean for me to take my mind o
 My projects around the game [Dwarf Fortress](http://www.bay12games.com/dwarves/)
 
 - [rexpaintjs-fork](https://github.com/adri326/rexpaintjs-fork), a fork of [rexpaintjs](https://github.com/chiguireitor/rexpaintjs/), a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp files; the fork adds the ability to write .xp files and tools to manipulate them. **⟨JS⟩**
+- [rexpaintjs-render](https://github.com/adri326/rexpaintjs-render), renders [rexpaintjs-fork](https://github.com/adri326/rexpaintjs-fork) images into [jimp](https://www.npmjs.com/package/jimp) images. **⟨JS⟩**
 - [warale-font](https://github.com/adri326/warale-font), a FOSS font supporting the entire CP437 charset. **⟨Pixel font⟩**
 
 #### School :clock230:
@@ -40,4 +41,6 @@ The projects that I had to do for school.
 - [lp25-project](https://github.com/adri326/lp25-project), simple tree traversal program. **⟨C⟩**
 - [ap4a-project](https://github.com/adri326/ap4a-project), a (virtual) sensor handler. **⟨C++⟩**
 - [ia41-exs](https://github.com/adri326/ia41-exs), set of exercises for the IA41 class. **⟨Prolog, Python⟩**
+- [sy40-exs](https://github.com/adri326/sy40-exs), set of exercises for the SY40 class. **⟨C⟩**
 - [Quick berkeley UPC build scripts](https://gist.github.com/adri326/471d02e55bc541f8eb158e004cd1582d), scripts to build and install the berkeley UPC suite. **⟨ShellScript⟩**
+- [pc40-upc](https://github.com/adri326/pc40-upc), project in UPC for the PC40 class. **⟨C, UPC⟩**
