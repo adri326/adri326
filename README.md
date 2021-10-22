@@ -18,6 +18,7 @@ Small projects that I started over a weekend, as a mean for me to take my mind o
 - [geometrical-visualizations](https://github.com/adri326/geometrical-visualizations), visualizing sequences with geometrical tools. **⟨JS⟩**
 - [galaxies.rs](https://github.com/adri326/galaxies.rs), simulating galaxies. **⟨Rust⟩**
 - [blips](https://github.com/adri326/blips), tiny projects. **⟨CSS, JS⟩**
+- [newton-fractal.rs](https://github.com/adri326/newton-fractal.rs), rendering the [Newton Fractal](https://en.wikipedia.org/wiki/Newton_fractal) in **⟨Rust⟩**
 
 #### Dwarf Fortress-related :pick:
 
