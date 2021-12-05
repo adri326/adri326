@@ -1,5 +1,10 @@
 ### My projects, sorted by category :rainbow_flag:
 
+#### Highlights :star2:
+
+- [stackline](https://github.com/adri326/stackline), a stack-based esoteric language inspired by [Wireworld](https://mathworld.wolfram.com/WireWorld.html) and [ORCA](https://github.com/hundredrabbits/Orca). **⟨JS, Stackline⟩**
+- [rexpaintjs-fork](https://github.com/adri326/rexpaintjs-fork), a fork of [rexpaintjs](https://github.com/chiguireitor/rexpaintjs/), a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp files; the fork adds the ability to write .xp files and tools to manipulate them. **⟨JS⟩**
+
 #### 5D Chess :chess_pawn:
 
 My projects around the game called [5D Chess with Multiverse Time Travel](https://5dchesswithmultiversetimetravel.com/)
@@ -19,6 +24,7 @@ Small projects that I started over a weekend, as a mean for me to take my mind o
 - [galaxies.rs](https://github.com/adri326/galaxies.rs), simulating galaxies. **⟨Rust⟩**
 - [blips](https://github.com/adri326/blips), tiny projects. **⟨CSS, JS⟩**
 - [newton-fractal.rs](https://github.com/adri326/newton-fractal.rs), rendering the [Newton Fractal](https://en.wikipedia.org/wiki/Newton_fractal) in **⟨Rust⟩**
+- [stackline](https://github.com/adri326/stackline), a stack-based esoteric language inspired by [Wireworld](https://mathworld.wolfram.com/WireWorld.html) and [ORCA](https://github.com/hundredrabbits/Orca). **⟨JS, Stackline⟩**
 
 #### Dwarf Fortress-related :pick:
 
@@ -45,3 +51,4 @@ The projects that I had to do for school.
 - [sy40-exs](https://github.com/adri326/sy40-exs), set of exercises for the SY40 class. **⟨C⟩**
 - [Quick berkeley UPC build scripts](https://gist.github.com/adri326/471d02e55bc541f8eb158e004cd1582d), scripts to build and install the berkeley UPC suite. **⟨ShellScript⟩**
 - [pc40-upc](https://github.com/adri326/pc40-upc), project in UPC for the PC40 class. **⟨C, UPC⟩**
+- [petri.rs](https://github.com/adri326/petri.rs), a tool for automatically verifying properties of petri networks. **⟨Rust, DOT⟩**
