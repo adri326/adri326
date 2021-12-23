@@ -25,6 +25,7 @@ Small projects that I started over a weekend, as a mean for me to take my mind o
 - [blips](https://github.com/adri326/blips), tiny projects. **⟨CSS, JS⟩**
 - [newton-fractal.rs](https://github.com/adri326/newton-fractal.rs), rendering the [Newton Fractal](https://en.wikipedia.org/wiki/Newton_fractal) in **⟨Rust⟩**
 - [stackline](https://github.com/adri326/stackline), a stack-based esoteric language inspired by [Wireworld](https://mathworld.wolfram.com/WireWorld.html) and [ORCA](https://github.com/hundredrabbits/Orca). **⟨JS, Stackline⟩**
+- [online-pixel-font-creator](https://github.com/adri326/online-pixel-font-creator), a tool for creating, editing and exporting pixel fonts in your browser, inspired by [YellowAfterLife's](https://yal.cc) [pixel font converter](https://yellowafterlife.itch.io/pixelfont). **⟨JS⟩**
 
 #### Dwarf Fortress-related :pick:
 
