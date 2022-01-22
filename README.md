@@ -15,6 +15,7 @@ My projects around the game called [5D Chess with Multiverse Time Travel](https:
 - [5dchess-variants](https://github.com/adri326/5dchess-variants), a repository of 5D Chess variants. **⟨5DPGN⟩**
 - [5d-chess-renderer](https://gitlab.com/alexbay218/5d-chess-renderer) and [5d-chess-js](https://gitlab.com/alexbay218/5d-chess-js), Alexbay's projects that I contributed to. **⟨JS⟩**
 - [The 5DChess Wiki](https://5d-chess.fandom.com/) **⟨LUA, MediaWiki⟩**
+- [discord-no-phishy-links](https://github.com/adri326/discord-no-phishy-links), a bot deployed on the official 5D Chess discord server to mitigate low-effort phishing attacks (also see [my fork of stop-discord-phishing](https://github.com/adri326/stop-discord-phishing)) **⟨JS⟩**
 
 #### Weekend projects :cloud:
 
@@ -26,6 +27,7 @@ Small projects that I started over a weekend, as a mean for me to take my mind o
 - [newton-fractal.rs](https://github.com/adri326/newton-fractal.rs), rendering the [Newton Fractal](https://en.wikipedia.org/wiki/Newton_fractal) in **⟨Rust⟩**
 - [stackline](https://github.com/adri326/stackline), a stack-based esoteric language inspired by [Wireworld](https://mathworld.wolfram.com/WireWorld.html) and [ORCA](https://github.com/hundredrabbits/Orca). **⟨JS, Stackline⟩**
 - [online-pixel-font-creator](https://github.com/adri326/online-pixel-font-creator), a tool for creating, editing and exporting pixel fonts in your browser, inspired by [YellowAfterLife's](https://yal.cc) [pixel font converter](https://yellowafterlife.itch.io/pixelfont). **⟨JS⟩**
+- [wombot](https://github.com/adri326/wombot), an unofficial API for "Wombo Dream" **⟨JS⟩**
 
 #### Dwarf Fortress-related :pick:
 
