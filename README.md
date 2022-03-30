@@ -5,6 +5,7 @@
 - [stackline](https://github.com/adri326/stackline), a stack-based esoteric language inspired by [Wireworld](https://mathworld.wolfram.com/WireWorld.html) and [ORCA](https://github.com/hundredrabbits/Orca). **⟨JS, Stackline⟩**
 - [rexpaintjs-fork](https://github.com/adri326/rexpaintjs-fork), a fork of [rexpaintjs](https://github.com/chiguireitor/rexpaintjs/), a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp files; the fork adds the ability to write .xp files and tools to manipulate them. **⟨JS⟩**
 - [online-pixel-font-creator](https://github.com/adri326/online-pixel-font-creator), a tool for creating, editing and exporting pixel fonts in your browser, inspired by [YellowAfterLife's](https://yal.cc) [pixel font converter](https://yellowafterlife.itch.io/pixelfont). **⟨JS⟩**
+- [obelisk](https://github.com/adri326/obelisk), an artificial intelligence for a multiplayer strategy game, using monte carlo integration, genetical algorithms and deep neural networks. **⟨Python, Rust⟩**
 
 #### 5D Chess :chess_pawn:
 
@@ -29,6 +30,7 @@ Small projects that I started over a weekend, as a mean for me to take my mind o
 - [stackline](https://github.com/adri326/stackline), a stack-based esoteric language inspired by [Wireworld](https://mathworld.wolfram.com/WireWorld.html) and [ORCA](https://github.com/hundredrabbits/Orca). **⟨JS, Stackline⟩**
 - [online-pixel-font-creator](https://github.com/adri326/online-pixel-font-creator), a tool for creating, editing and exporting pixel fonts in your browser, inspired by [YellowAfterLife's](https://yal.cc) [pixel font converter](https://yellowafterlife.itch.io/pixelfont). **⟨JS⟩**
 - [wombot](https://github.com/adri326/wombot), an unofficial API for "Wombo Dream" **⟨JS⟩**
+- [obelisk](https://github.com/adri326/obelisk), an artificial intelligence for a multiplayer strategy game, using monte carlo integration, genetical algorithms and deep neural networks. **⟨Python, Rust⟩**
 
 #### Dwarf Fortress-related :pick:
 
