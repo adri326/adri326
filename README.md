@@ -6,6 +6,7 @@
 - [rexpaintjs-fork](https://github.com/adri326/rexpaintjs-fork), a fork of [rexpaintjs](https://github.com/chiguireitor/rexpaintjs/), a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp files; the fork adds the ability to write .xp files and tools to manipulate them. **⟨JS⟩**
 - [online-pixel-font-creator](https://github.com/adri326/online-pixel-font-creator), a tool for creating, editing and exporting pixel fonts in your browser, inspired by [YellowAfterLife's](https://yal.cc) [pixel font converter](https://yellowafterlife.itch.io/pixelfont). **⟨JS⟩**
 - [obelisk](https://github.com/adri326/obelisk), an artificial intelligence for a multiplayer strategy game, using monte carlo integration, genetical algorithms and deep neural networks. **⟨Python, Rust⟩**
+- [mdc](https://github.com/adri326/mdc), a modular desk calculator based on [GNU dc](https://linux.die.net/man/1/dc). **⟨C⟩**
 
 #### 5D Chess :chess_pawn:
 
@@ -58,3 +59,4 @@ The projects that I had to do for school.
 - [Quick berkeley UPC build scripts](https://gist.github.com/adri326/471d02e55bc541f8eb158e004cd1582d), scripts to build and install the berkeley UPC suite. **⟨ShellScript⟩**
 - [pc40-upc](https://github.com/adri326/pc40-upc), project in UPC for the PC40 class. **⟨C, UPC⟩**
 - [petri.rs](https://github.com/adri326/petri.rs), a tool for automatically verifying properties of petri networks. **⟨Rust, DOT⟩**
+- [mdc](https://github.com/adri326/mdc), a modular desk calculator based on [GNU dc](https://linux.die.net/man/1/dc). **⟨C⟩**
