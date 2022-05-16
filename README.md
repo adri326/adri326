@@ -3,7 +3,7 @@
 #### Highlights :star2:
 
 - [Stackline](https://github.com/adri326/stackline), a stack-based esoteric language inspired by [Wireworld](https://mathworld.wolfram.com/WireWorld.html) and [ORCA](https://github.com/hundredrabbits/Orca). **⟨JS, Stackline⟩**
-- [My fork of Rexpaintjs](https://github.com/adri326/rexpaintjs-fork), which is based on [chiguireitor's rexpaintjs](https://github.com/chiguireitor/rexpaintjs/) — a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp files; the fork adds the ability to write .xp files and tools to manipulate them. **⟨JS⟩**
+- [My fork of Rexpaintjs](https://github.com/adri326/rexpaintjs-fork), which is based on [chiguireitor's rexpaintjs](https://github.com/chiguireitor/rexpaintjs/) — a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp filesl. My fork adds the ability to write .xp files and includes tools to manipulate them. **⟨JS⟩**
 - [Online Pixel Font Creator](https://github.com/adri326/online-pixel-font-creator), a tool for creating, editing and exporting pixel fonts in your browser, inspired by [YellowAfterLife's](https://yal.cc) [pixel font converter](https://yellowafterlife.itch.io/pixelfont). **⟨JS⟩**
 - [Obelisk](https://github.com/adri326/obelisk), an artificial intelligence for a multiplayer strategy game, using monte carlo integration, genetical algorithms and deep neural networks. **⟨Python, Rust⟩**
 - [Wombot](https://github.com/adri326/wombot), an unofficial API for "Wombo Dream" **⟨JS⟩**
