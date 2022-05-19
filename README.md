@@ -7,6 +7,7 @@
 - [Online Pixel Font Creator](https://github.com/adri326/online-pixel-font-creator), a tool for creating, editing and exporting pixel fonts in your browser, inspired by [YellowAfterLife's](https://yal.cc) [pixel font converter](https://yellowafterlife.itch.io/pixelfont). **⟨JS⟩**
 - [Obelisk](https://github.com/adri326/obelisk), an artificial intelligence for a multiplayer strategy game, using monte carlo integration, genetical algorithms and deep neural networks. **⟨Python, Rust⟩**
 - [Wombot](https://github.com/adri326/wombot), an unofficial API for "Wombo Dream" **⟨JS⟩**
+- [Ant Factory](https://github.com/adri326/ant-factory), a puzzle game made in a week for a game jam, from scratch. **⟨JS⟩**
 
 #### 5D Chess :chess_pawn:
 
@@ -32,6 +33,7 @@ Small projects that I started over a weekend, as a mean for me to take my mind o
 - [Online Pixel Font Creator](https://github.com/adri326/online-pixel-font-creator), a tool for creating, editing and exporting pixel fonts in your browser, inspired by [YellowAfterLife's](https://yal.cc) [pixel font converter](https://yellowafterlife.itch.io/pixelfont). **⟨JS⟩**
 - [Wombot](https://github.com/adri326/wombot), an unofficial API for "Wombo Dream" **⟨JS⟩**
 - [Obelisk](https://github.com/adri326/obelisk), an artificial intelligence for a multiplayer strategy game, using monte carlo integration, genetical algorithms and deep neural networks. **⟨Python, Rust⟩**
+- [Ant Factory](https://github.com/adri326/ant-factory), a puzzle game made in a week for a game jam, from scratch. **⟨JS⟩**
 
 #### Dwarf Fortress-related :pick:
 
