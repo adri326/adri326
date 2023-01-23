@@ -1,3 +1,5 @@
+*I am slowly working on porting my projects over to [my gitea instance](https://git.shadamethyst.xyz/); none of the projects here will be impacted, but new, small pet projects will start to be primarily hosted on gitea.*
+
 ### My projects, sorted by category :rainbow_flag:
 
 #### Highlights :star2:
