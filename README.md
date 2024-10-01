@@ -5,9 +5,9 @@
 #### Highlights :star2:
 
 - [Basic to Mindustry](https://github.com/adri326/basic-to-mindustry), a compiler and optimizer from a dialect of BASIC to the [logic system](https://www.reddit.com/r/Mindustry/comments/kfea1e/an_overly_indepth_logic_guide/) of [Mindustry](https://github.com/Anuken/Mindustry/), a factory-building game. **⟨Rust, Basic, mlog⟩**
+- [neuramethyst](https://github.com/adri326/neuramethyst), an (experimental) Rust library to train neural networks and run inference on them. **⟨Rust⟩**
 - [Stackline](https://github.com/adri326/stackline), a 2D, stack-based esoteric language inspired by [Wireworld](https://mathworld.wolfram.com/WireWorld.html) and [ORCA](https://github.com/hundredrabbits/Orca). **⟨JS, Stackline⟩**
 - [Online Pixel Font Creator](https://github.com/adri326/online-pixel-font-creator), a tool for creating, editing and exporting pixel fonts in your browser, inspired by [YellowAfterLife's](https://yal.cc) [pixel font converter](https://yellowafterlife.itch.io/pixelfont). **⟨JS⟩**
-- [My fork of Rexpaintjs](https://github.com/adri326/rexpaintjs-fork), which is based on [chiguireitor's rexpaintjs](https://github.com/chiguireitor/rexpaintjs/) — a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp filesl. My fork adds the ability to write .xp files and includes tools to manipulate them. **⟨JS⟩**
 - [Obelisk](https://github.com/adri326/obelisk), an artificial intelligence for a multiplayer strategy game, using monte carlo integration, genetical algorithms and deep neural networks. **⟨Python, Rust⟩**
 - [Ant Factory](https://github.com/adri326/ant-factory), a puzzle game made in a week for a game jam, from scratch. **⟨JS⟩**
 
@@ -27,6 +27,7 @@ My projects around the game called [5D Chess with Multiverse Time Travel](https:
 
 Small projects that I started over a weekend, as a mean for me to take my mind off.
 
+- [neuramethyst](https://github.com/adri326/neuramethyst), an (experimental) Rust library to train neural networks and run inference on them. **⟨Rust⟩**
 - [genomic.rs](https://github.com/adri326/genomic-rs), a Rust library for declarative genetic simulations. **⟨Rust⟩**
 - [geometrical-visualizations](https://github.com/adri326/geometrical-visualizations), visualizing sequences with geometrical tools. **⟨JS⟩**
 - [galaxies.rs](https://github.com/adri326/galaxies.rs), simulating galaxies. **⟨Rust⟩**
