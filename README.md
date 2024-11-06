@@ -1,6 +1,8 @@
-*I am also hosting some of these projects over on [my gitea instance](https://git.shadamethyst.xyz/)!*
+*Check out my [blog series](https://shadamethyst.xyz/blog/bootloader-basics) about the wild world of microcontroller bootloaders!*
 
 ### My projects, sorted by category :rainbow_flag:
+
+*I am also hosting some of these projects over on [my gitea instance](https://git.shadamethyst.xyz/).*
 
 #### Highlights :star2:
 
