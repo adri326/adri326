@@ -45,6 +45,7 @@ Small projects that I started over a weekend, as a mean for me to take my mind o
 
 My projects around the game [Dwarf Fortress](http://www.bay12games.com/dwarves/)
 
+- [ascii-cell](https://github.com/adri326/ascii-cell), a library for simulating cellular automatons and rendering them as ASCII art, on the browser. **⟨JS, TypeScript⟩**
 - [My fork of Rexpaintjs](https://github.com/adri326/rexpaintjs-fork), a fork of [rexpaintjs](https://github.com/chiguireitor/rexpaintjs/), a library to load [REXPaint](https://www.gridsagegames.com/rexpaint/) .xp files; the fork adds the ability to write .xp files and tools to manipulate them. **⟨JS⟩**
 - [rexpaintjs-render](https://github.com/adri326/rexpaintjs-render), renders [rexpaintjs-fork](https://github.com/adri326/rexpaintjs-fork) images into [jimp](https://www.npmjs.com/package/jimp) images. **⟨JS⟩**
 - [warale-font](https://github.com/adri326/warale-font), a FOSS font supporting the entire CP437 charset. **⟨Pixel font⟩**
